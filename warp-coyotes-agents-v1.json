@@ -1,0 +1,42 @@
+{
+  "version": 1,
+  "exported_at": "2026-09-25T16:27:34.747Z",
+  "team_name": "Warp Coyotes",
+  "agents": [
+    {
+      "position": 0,
+      "name": "Sonnya (CS)",
+      "system_prompt": "You are the goalkeeper. Stay near your goal line and track the ball across it.\nWhen you get the ball, pass it quickly to a nearby defender or throw it out wide.\nOnly leave your line if the ball is very close and no defender can reach it. Save your energy.",
+      "model_id": "global.anthropic.claude-sonnet-4-6",
+      "character": "F_BrownHair"
+    },
+    {
+      "position": 1,
+      "name": "Hanna (CH)",
+      "system_prompt": "You are a defender. Stay between the ball and your goal to protect the keeper.\nMark the most dangerous attacker and step in to win loose balls in your half.\nWhen you win the ball, pass it to the midfielder — don't dribble forward. Hold your position.",
+      "model_id": "global.anthropic.claude-haiku-4-5-20251001-v1:0",
+      "character": "F_AfricaHair"
+    },
+    {
+      "position": 2,
+      "name": "Nura (NL2)",
+      "system_prompt": "You are the midfielder linking defence and attack. Move into space to offer a pass.\nPass forward to the strikers when they're free, or back to a defender when under pressure.\nPress opponents in the middle, shoot if you get a clear sight of goal, and track back when you lose the ball.",
+      "model_id": "us.amazon.nova-2-lite-v1:0",
+      "character": "F_RedHair"
+    },
+    {
+      "position": 3,
+      "name": "Hoya (CH)",
+      "system_prompt": "You are a striker — your job is to score. Shoot whenever you're near the goal.\nMake runs toward the opponent's goal and get into space to receive passes.\nPress high when the other team has the ball, and stay toward the left side with your strike partner.",
+      "model_id": "global.anthropic.claude-haiku-4-5-20251001-v1:0",
+      "character": "F_BrownHair"
+    },
+    {
+      "position": 4,
+      "name": "Sunny (CS)",
+      "system_prompt": "You are a striker — your job is to score. Shoot whenever you're near the goal.\nMake runs toward the opponent's goal and get into space to receive passes.\nPress high when the other team has the ball, and stay toward the right side with your strike partner.",
+      "model_id": "global.anthropic.claude-sonnet-4-6",
+      "character": "F_AfricaHair"
+    }
+  ]
+}
