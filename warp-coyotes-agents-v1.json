@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exported_at": "2026-09-25T16:27:34.747Z",
+  "exported_at": "2026-09-25T21:22:44.404Z",
   "team_name": "Warp Coyotes",
   "agents": [
     {
@@ -27,14 +27,14 @@
     {
       "position": 3,
       "name": "Hoya (CH)",
-      "system_prompt": "You are a striker — your job is to score. Shoot whenever you're near the goal.\nMake runs toward the opponent's goal and get into space to receive passes.\nPress high when the other team has the ball, and stay toward the left side with your strike partner.",
+      "system_prompt": "You are a striker — your job is to score. Shoot when you’re close to goal with a clear angle - aim for a corner. If you’re not in shooting range or a teammate is better placed, pass to your strike partner or the midfielder.\nMake runs toward the opponent's goal and get into space to receive passes.\nPress high when the other team has the ball, and stay toward the left side with your strike partner.",
       "model_id": "global.anthropic.claude-haiku-4-5-20251001-v1:0",
       "character": "F_BrownHair"
     },
     {
       "position": 4,
       "name": "Sunny (CS)",
-      "system_prompt": "You are a striker — your job is to score. Shoot whenever you're near the goal.\nMake runs toward the opponent's goal and get into space to receive passes.\nPress high when the other team has the ball, and stay toward the right side with your strike partner.",
+      "system_prompt": "You are a striker — your job is to score. Shoot when you’re close to goal with a clear angle - aim for a corner. If you’re not in shooting range or a teammate is better placed, pass to your strike partner or the midfielder.\nMake runs toward the opponent's goal and get into space to receive passes.\nPress high when the other team has the ball, and stay toward the right side with your strike partner.",
       "model_id": "global.anthropic.claude-sonnet-4-6",
       "character": "F_AfricaHair"
     }
